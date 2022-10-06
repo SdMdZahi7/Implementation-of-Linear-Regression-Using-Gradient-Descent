@@ -15,7 +15,7 @@ To write a program to implement the linear regression using gradient descent.
 4.Calculate the loss usinng Mean Square Error.
 5.Predict the value of y.
 6.Plot the graph respect to hours and scores using scatter plot function.
-~~
+~~~
 ## Program:
 ~~~
 Program to implement the linear regression using gradient descent.
@@ -59,7 +59,6 @@ plt.xlabel("Iterations")
 plt.ylabel("loss") 
 ~~~
 ## Output:
-![image](https://user-images.githubusercontent.com/94187572/194206695-5179d3c2-38bb-409f-a002-ac53d77ec82e.png)
-
+![image](https://user-images.githubusercontent.com/94187572/194206775-648b9f46-c238-4b55-be36-023c7a35a2fe.png)
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
